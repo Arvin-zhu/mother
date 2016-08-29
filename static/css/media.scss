@@ -1,7 +1,0 @@
-@for $i from 320 to 768 {
-	@media screen and (min-width: $i+px ){
-		html,body{
-			font-size: ($i/320*16)+px;
-		}
-	}
-}
