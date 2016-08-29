@@ -1090,3 +1090,93 @@ body{
 	max-width: 800px;
 	margin:0 auto;
 }
+@media screen and (max-width:320px){
+	html,body{
+		font-size: (320/320*16)+px;
+	}
+	
+}
+@media screen and (max-width:321px){
+	html,body{
+		font-size: (321/320*16)+px;
+	}
+	
+}
+
+@media screen and (min-height:568px){
+	html,body{
+		font-size: (320/320*16)+px;
+	}
+	
+}
+@media screen and (min-width:360px){
+	html,body{
+		font-size: (360/320*16)+px;
+	}
+}
+@media screen and (min-width:375px){
+	html,body{
+		font-size: (375/320*16)+px;
+	}
+}
+@media screen and (min-width:384px){
+	html,body{
+		font-size: (384/320*16)+px;
+	}
+}
+@media screen and (min-width:412px){
+	html,body{
+		font-size: (414/320*16)+px;
+	}
+}
+@media screen and (min-width:454px){
+	html,body{
+		font-size: (454/320*16)+px;
+	}
+}
+@media screen and (min-width:500px){
+	html,body{
+		font-size: (500/320*16)+px;
+	}
+}
+@media screen and (min-width:550px){
+	html,body{
+		font-size: (550/320*16)+px;
+	}
+}
+@media screen and (min-width:600px){
+	html,body{
+		font-size: (600/320*16)+px;
+	}
+}
+@media screen and (min-width:650px){
+	html,body{
+		font-size: (650/320*16)+px;
+	}
+}
+@media screen and (min-width:700px){
+	html,body{
+		font-size: (700/320*16)+px;
+	}
+}
+@media screen and (min-width:750px){
+	html,body{
+		font-size: (750/320*16)+px;
+	}
+}
+@media screen and (min-width:768px){
+	html,body{
+		font-size: (768/320*16)+px;
+	}
+}
+@media screen and (min-width:800px){
+	html,body{
+		font-size: (800/320*16)+px;
+	}
+	#container,#container1,#container2,#container3,#container4,#container5,
+	#container6,#container7,#container8,#container9,#container10,#container11,#container12
+	,#container13{
+		width:800px;
+		margin:0 auto;
+	}
+}

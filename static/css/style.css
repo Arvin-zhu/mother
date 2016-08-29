@@ -1023,4 +1023,92 @@ body {
   margin: 0 auto;
 }
 
+@media screen and (max-width: 320px) {
+  html, body {
+    font-size: 16px;
+  }
+}
+@media screen and (max-width: 321px) {
+  html, body {
+    font-size: 16.05px;
+  }
+}
+@media screen and (min-height: 568px) {
+  html, body {
+    font-size: 16px;
+  }
+}
+@media screen and (min-width: 360px) {
+  html, body {
+    font-size: 18px;
+  }
+}
+@media screen and (min-width: 375px) {
+  html, body {
+    font-size: 18.75px;
+  }
+}
+@media screen and (min-width: 384px) {
+  html, body {
+    font-size: 19.2px;
+  }
+}
+@media screen and (min-width: 412px) {
+  html, body {
+    font-size: 20.7px;
+  }
+}
+@media screen and (min-width: 454px) {
+  html, body {
+    font-size: 22.7px;
+  }
+}
+@media screen and (min-width: 500px) {
+  html, body {
+    font-size: 25px;
+  }
+}
+@media screen and (min-width: 550px) {
+  html, body {
+    font-size: 27.5px;
+  }
+}
+@media screen and (min-width: 600px) {
+  html, body {
+    font-size: 30px;
+  }
+}
+@media screen and (min-width: 650px) {
+  html, body {
+    font-size: 32.5px;
+  }
+}
+@media screen and (min-width: 700px) {
+  html, body {
+    font-size: 35px;
+  }
+}
+@media screen and (min-width: 750px) {
+  html, body {
+    font-size: 37.5px;
+  }
+}
+@media screen and (min-width: 768px) {
+  html, body {
+    font-size: 38.4px;
+  }
+}
+@media screen and (min-width: 800px) {
+  html, body {
+    font-size: 40px;
+  }
+
+  #container, #container1, #container2, #container3, #container4, #container5,
+  #container6, #container7, #container8, #container9, #container10, #container11, #container12
+  , #container13 {
+    width: 800px;
+    margin: 0 auto;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
