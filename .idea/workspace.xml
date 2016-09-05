@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ebad76d-e8db-4727-8682-070da3e35600" name="Default" comment="try">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/style.scss" afterPath="$PROJECT_DIR$/static/css/style.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/style2.scss" afterPath="$PROJECT_DIR$/static/css/style2.scss" />
     </list>
     <ignored path="餐饮模板.iws" />
@@ -24,7 +23,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="style.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/css/style.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="310">
@@ -34,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style2.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style2.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/css/style2.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="1432" column="10" selection-start-line="1432" selection-start-column="10" selection-end-line="1432" selection-end-column="10" />
+            <state relative-caret-position="390">
+              <caret line="745" column="25" selection-start-line="745" selection-start-column="25" selection-end-line="745" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -105,8 +104,8 @@
         <option value="$PROJECT_DIR$/html/success_info.html" />
         <option value="$PROJECT_DIR$/static/js/js.js" />
         <option value="$PROJECT_DIR$/html/recruit.html" />
-        <option value="$PROJECT_DIR$/static/css/style2.scss" />
         <option value="$PROJECT_DIR$/static/css/style.scss" />
+        <option value="$PROJECT_DIR$/static/css/style2.scss" />
       </list>
     </option>
   </component>
@@ -366,7 +365,7 @@
       <workItem from="1472367354967" duration="43000" />
       <workItem from="1472889672201" duration="4326000" />
       <workItem from="1472994014773" duration="9522000" />
-      <workItem from="1473033582168" duration="16887000" />
+      <workItem from="1473033582168" duration="17143000" />
     </task>
     <task id="LOCAL-00001" summary="try">
       <created>1472893039122</created>
@@ -379,10 +378,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30822000" />
+    <option name="totallyTimeSpent" value="31078000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1934" height="1048" extended-state="0" />
+    <frame x="-9" y="-9" width="1934" height="1048" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24895616" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -740,6 +739,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="1432" column="5" selection-start-line="1432" selection-start-column="5" selection-end-line="1432" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/html/recruit.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
@@ -752,16 +759,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/css/style2.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="1432" column="10" selection-start-line="1432" selection-start-column="10" selection-end-line="1432" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="1432" column="5" selection-start-line="1432" selection-start-column="5" selection-end-line="1432" selection-end-column="5" />
+        <state relative-caret-position="390">
+          <caret line="745" column="25" selection-start-line="745" selection-start-column="25" selection-end-line="745" selection-end-column="25" />
           <folding />
         </state>
       </provider>

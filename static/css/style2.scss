@@ -743,6 +743,7 @@ body{
       display:table;
       color:white;
       position:relative;
+      overflow-x: hidden;
       font{
         size:(17/16)+rem;
         family:"SimHei";
